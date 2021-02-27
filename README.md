@@ -37,7 +37,7 @@ Vom obersten Projektordner aus
 2. ./Klausur
 
 ## Systemumgebung
-###Entwicklungsumgebung
+### Entwicklungsumgebung
 Ich habe mit einem HDPI-Bildschirm entwickelt und habe deshalb im Code
 die HDPI-Option eingeschaltet. Ich habe auch probiert mit geringer Auflösung das
 Programm auszuführen. Es sollte eigentlich keine Probleme geben, wenn doch die Zeile 8
@@ -74,11 +74,11 @@ wenn man gewinnt, kommt die Nachricht "Victory!".
   - Steuerung von Pacman
   - Punkte sammeln und Spielende
   - Bewertung
-###Ausbaustufe 1
+### Ausbaustufe 1
   - Geister mit zufälliger Bewegung
   - Geister werden initialisiert
   - Kollision beendet Spiel
-###Ausbaustufe 2
+### Ausbaustufe 2
   - SmartGhost implementiert
   - SmartGhost wird getrennt von Ghost initialisiert
   - Menüsystem [3/5]
@@ -86,10 +86,10 @@ wenn man gewinnt, kommt die Nachricht "Victory!".
     - Man kann das Spiel vorzeitig beenden mit "q"
     - Am Ende der Spielrunde neues Spiel starten
       - Man kann zurück ins Menü und dort ein neues Spiel auswählen
-###Ausbaustufe 3
+### Ausbaustufe 3
   - Es werden Bilder statt ASCII-Zeichen anzeigt
   - Die Ecken sind gerundet
-###Extra-Features
+### Extra-Features
 - Invincibility pills
   - Sind gekennzeichnet mit "p". Zb.: level4.txt
   - Sie sehen wie Pacdots aus, sind aber rot.
@@ -100,7 +100,7 @@ wenn man gewinnt, kommt die Nachricht "Victory!".
   - Die maximale Punktzahl bleibt gleich
   - Kleines easter egg
       - Es wirkt sich aber auf [g]öttlicher Art aus!
-###Eigene Ideen
+### Eigene Ideen
   - Classic Mode
     - Man kann die Option im Menü auswählen
     - Pacman bewegt sich immer, die Pfeiltasten legen lediglich die Richtung fest  
