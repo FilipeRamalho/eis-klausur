@@ -39,7 +39,7 @@ void Ghost::act() {
 		move(back(RIGHT));
 	}
 
-	// Quelle [1]
+	// Quelle [0]
 	std::random_device rd;
 	std::mt19937 rng(rd());
 	std::uniform_int_distribution<unsigned long long> uni(0, free_directions.size()-1);
